@@ -1,0 +1,8 @@
+.nav{
+    display: flex;
+    padding: 9px;
+    border-left: 10px;
+    color: white;
+    align-items: right;
+
+}
